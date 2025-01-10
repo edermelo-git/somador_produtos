@@ -1,4 +1,4 @@
-#  Produtos, contidades e o valor total sem desconto 
+#  Produtos, quantidades e o valor total sem desconto 
 
 print("Bem-vindo(a)! Digite seu nome:")
 nome = input()
